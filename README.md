@@ -27,3 +27,7 @@ To run the project, use the following command:
 
 This will start the development server and you can access your application at `http://localhost:5173/ 
 
+## Awards 
+
+This project won first place at the Lancaster University Leipzig Student AI Award 2025.
+
